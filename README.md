@@ -2,6 +2,9 @@
 
 Simple Calculator : Using JavaFX.
 <br /><br /><br />
+Preview of output:
+<br /><br />
+<img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/Capture.JPG" />
 <h2>Resources.</h2>
 <ul>
   <li><p>Firstly you must intall Java jdk. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Click here</a> to download it.</p></li>
