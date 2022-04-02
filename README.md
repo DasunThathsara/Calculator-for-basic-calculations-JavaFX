@@ -6,4 +6,6 @@ Simple Calculator : Using JavaFX.
 <ul>
   <li><p>Firstly you must intall Java jdk. <a href="https://www.oracle.com/java/technologies/downloads/" target="_blank">Click here</a> to download it.</p></li>
   <li><p>And next you must intall JavaFX sdk. <a href="https://gluonhq.com/products/javafx/" target="_blank">Click here</a> to download it.</p></li>
+  <li><p>And after you can install Scene Builder to make scenes to your GUI. <a href="https://gluonhq.com/products/scene-builder/" target="_blank">Click here</a> to download it.</p></li>
 </ul>
+
