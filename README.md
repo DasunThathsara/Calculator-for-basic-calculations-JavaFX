@@ -1,4 +1,4 @@
-# This is my fiest JavaFX GUI program
+# This is my first JavaFX GUI program
 
 Simple Calculator : Using JavaFX.
 <br /><br /><br />
