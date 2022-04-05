@@ -12,6 +12,14 @@ Preview of output:
   <li><p>And after you can install Scene Builder to make scenes to your GUI. <a href="https://gluonhq.com/products/scene-builder/" target="_blank">Click here</a> to download it.</p></li>
 </ul>
 <br />
+<h2>How to create JavaFX project?</h2>
+<dl>
+    <dt>Follow these steps to add JavaFX to Intellij IDE:</<dt>
+    <dd>First, how to create JavaFX project select <b><i>"New -> Project"</i></b> now you can see window like this:<br />
+        <img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" /><br /><br />And next, select JavaFX as your project type and select your java sdk and select <b>Next</b>. Now you can see window like this:<br /><img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" /><br /><br />Now you can enter your project name and select your location.After you select that you can select <b>Finish</b>. Congratulations..! you created your first JavaFX project :) . Now you can see your project like this:<br /><br /><img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" />
+    </dd>
+  </dl>
+<br />
 <p>If you want to change your app title, edit this to do it :</p> 
 <img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" />
 <br />
