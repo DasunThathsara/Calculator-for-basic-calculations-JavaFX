@@ -62,7 +62,12 @@ Preview of output:
     <dd>
       <p>
         <b>Now you can add your JavaFx library like this : <br />
-        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup3.JPG?raw=true" />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup2.JPG?raw=true" />
+      </p>
+    </dd>
+    <dd>
+      <p>
+        And now you can select <b>Apply</b> and <b>OK</b>
       </p>
     </dd>
   </dl>
