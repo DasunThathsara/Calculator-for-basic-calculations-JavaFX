@@ -82,7 +82,7 @@ Simple Calculator : Using JavaFX.
     <dd>
       <p>
         <b>Final step of setup javafx:</b><br />
-        Goto Run -> EditConfigurations <br />
+        Goto Run -> Edit Configurations <br />
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/run.png?raw=true" /><br /><br />
         Now goto Modify options -> Add VM options<br />
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/addvm.png?raw=true" /><br /><br />
@@ -106,7 +106,7 @@ Simple Calculator : Using JavaFX.
       <p>
         Goto Languages and Frameworks -> JavaFX now you can select the location of your Scene Builder ".exe" file and add it<br />
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/SBadding.JPG?raw=true" /><br />
-        Now Apress pply and press OK
+        Now press Apply and press OK
       </p>
     </dd>
   </dl>
@@ -141,7 +141,7 @@ Simple Calculator : Using JavaFX.
   <li>Firstly you should add css file to your package</li>
   <ul>
     <li>
-      Right your package -> New -> File<br />
+      Right click your package -> New -> File<br />
       <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/Untitled.png?raw=true" /><br /><br />
     </li>
     <li>
