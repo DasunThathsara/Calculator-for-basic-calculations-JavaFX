@@ -151,7 +151,7 @@ Simple Calculator : Using JavaFX.
     <dd>
       <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/stylecss.JPG?raw=true" />
     </dd>
-  </dl
+  </dl>
 </ul>
 <br />
 <h3>Preview of my calculator using css:<br /></h3>
