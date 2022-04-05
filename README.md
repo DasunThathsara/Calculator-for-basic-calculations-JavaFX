@@ -15,4 +15,17 @@ Preview of output:
 <p>If you want to change your app title, edit this to do it :</p> 
 <img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" />
 <br />
+<h1>How to add css</h1>
+<ul>
+  <li>How to add css file to your package</li>
+  <ul>
+    <li>Right your package -> New -> File<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/Untitled.png?raw=true" /></li>
+    <li>Enter your css file name<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/addcss.JPG?raw=true" /></li>
+  </ul>
+  <li></li>
+  <li></li>
+</ul>
+<br />
+<hr />
+<br />
 <p>Do you want to learn how to build this calculator using Python Tkinter ? <a href="https://github.com/DasunThathsara/Calculator-for-basic-calculations-Using-Python-Tkinter-" target="_blank">Click here</a> to open it.</p>
