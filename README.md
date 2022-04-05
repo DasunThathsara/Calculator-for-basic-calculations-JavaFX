@@ -81,11 +81,26 @@ Preview of output:
       <p>
         <b>Search JavaFX and put tick</b><br />
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup3.JPG?raw=true" /><br />
-        Now Apply and press OK
+        Now press Apply and press OK
       </p>
     </dd>
   </dl>
   <li>Scene Builder</li>
+  <dl>
+    <dd>
+      <p>
+        Goto File -> Settings<br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/settings.JPG?raw=true" /><br />
+      </p>
+    </dd>
+    <dd>
+      <p>
+        Goto Languages and Frameworks -> JavaFX now you can select the location of your Scene Builder ".exe" file and add it<br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/SBadding.JPG?raw=true" /><br />
+        Now Apress pply and press OK
+      </p>
+    </dd>
+  </dl>
 </dl>
 
 <p>If you want to change your app title, edit this to do it :</p> 
