@@ -1,0 +1,11 @@
+.btn{
+    -fx-background-color: rgba(0, 6, 118, 0.40);
+    -fx-background-radius: 20;
+}
+.background{
+    -fx-background-color: #a5b3c7;
+}
+
+.textfield{
+    -fx-background-radius: 20;
+}
