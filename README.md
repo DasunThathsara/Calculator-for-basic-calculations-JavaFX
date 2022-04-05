@@ -62,7 +62,8 @@ Preview of output:
     <dd>
       <p>
         <b>Now you can add your JavaFx library like this : <br />
-        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup2.JPG?raw=true" />
+          <i>(How to add JavaFX library : Goto your extracted JavaFX folder -> select lib folder -> press OK)</i>
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup2.JPG?raw=true" /><br />
       </p>
     </dd>
     <dd>
