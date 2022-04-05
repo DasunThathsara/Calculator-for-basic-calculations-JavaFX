@@ -84,7 +84,21 @@ Preview of output:
         Now press Apply and press OK
       </p>
     </dd>
+    <dd>
+      <p>
+        <b>Final step of setup javafx:</b><br />
+        Goto Run -> EditConfigurations <br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/run.png?raw=true" /><br /><br />
+        Now goto Modify options -> Add VM options<br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/addvm.png?raw=true" /><br /><br />
+        Now paste this code to VM options text box <i><b>--module-path " enter your JavaFX lib path to hear " --add-modules javafx.controls,javafx.fxml</b></i><br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/addvmop.JPG?raw=true" /><br />
+        press Apply and press OK.
+      </p>
+    </dd>
   </dl>
+  
+  
   <li>Scene Builder</li>
   <dl>
     <dd>
