@@ -17,15 +17,23 @@ Preview of output:
 <br />
 <h1>How to add css</h1>
 <ul>
-  <li>How to add css file to your package</li>
+  <li>Firstly you should add css file to your package</li>
   <ul>
-    <li>Right your package -> New -> File<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/Untitled.png?raw=true" /></li>
-    <li>Enter your css file name<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/addcss.JPG?raw=true" /></li>
+    <li>Right your package -> New -> File<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/Untitled.png?raw=true" /><br /><br /></li>
+    <li>Enter your css file name<br /><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/addcss.JPG?raw=true" /><br /><br /><br /></li>
   </ul>
-  <li></li>
-  <li></li>
+  <li>After you can add it your <b>fxml </b>file and select css class, using <b>scene builder</b></li>
+  <dl>
+    <dd><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/SBcsstools.JPG?raw=true" /></dd>
+  </dl>
+  <li>Finaly you can apply your own css styles in your JavaJX program. But remember onething. You should write prefix in your each css code. Beacouse you are using css in java fx, not html. <i><b>ex:- "-fx-backgroung-color: red;"</b></i></li>
+  <dl>
+    <dd><img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/stylecss.JPG?raw=true" /></dd>
+  </dl
 </ul>
 <br />
+<h3>Preview of my calculator using css:<br /></h3>
+<img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/css1.JPG?raw=true" />
 <hr />
 <br />
 <p>Do you want to learn how to build this calculator using Python Tkinter ? <a href="https://github.com/DasunThathsara/Calculator-for-basic-calculations-Using-Python-Tkinter-" target="_blank">Click here</a> to open it.</p>
