@@ -114,8 +114,7 @@ Simple Calculator : Using JavaFX.
 <hr />
 <center><b>JavaFX Setup is over. Now you can start coding and build your GUI application.</b></center>
 <hr />
-<h4>Preview of output:</h4>
-<br /><br />
+<h3>Preview of output:</h3>
 <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/Capture.JPG?raw=true" />
 <br /><br />
 <p>If you want to change your app title, edit this to do it (Main.java):</p> 
@@ -123,7 +122,7 @@ Simple Calculator : Using JavaFX.
 <br />
 
 
-<h1>How to add css?</h1>
+<h2>How to add css?</h2>
 <ul>
   <li>Firstly you should add css file to your package</li>
   <ul>
