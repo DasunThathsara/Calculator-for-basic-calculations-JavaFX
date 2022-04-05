@@ -121,7 +121,21 @@ Simple Calculator : Using JavaFX.
 <img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" />
 <br />
 
+<h2>How to open FXML file through Scene Builder?</h2>
+<dl>
+  <dt>
+    <p>Right click your fxml file -> select Scene Builder:</p>
+  </dt>
+  <dd>
+    <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/openscenebuilder.png?raw=true" /><br /><br />
+    After it open like this:<br />
+    <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/Scene%20Builder.JPG?raw=true" /><br /><br />
+    Now you can edit fxml file graphicaly.
+  </dd>
+</dl>
 
+
+<br />
 <h2>How to add css?</h2>
 <ul>
   <li>Firstly you should add css file to your package</li>
