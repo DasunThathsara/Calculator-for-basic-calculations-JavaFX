@@ -1,12 +1,7 @@
 # This is my first JavaFX GUI program
 
 Simple Calculator : Using JavaFX.
-<br /><br /><br />
-Preview of output:
 <br /><br />
-
-<img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/Capture.JPG?raw=true" />
-
 <h2>Resources.</h2>
 <ul>
   <li>
@@ -116,8 +111,14 @@ Preview of output:
     </dd>
   </dl>
 </dl>
-
-<p>If you want to change your app title, edit this to do it :</p> 
+<hr />
+<center><b>JavaFX Setup is over. Now you can start coding and build your GUI application.</b></center>
+<hr />
+<h4>Preview of output:</h4>
+<br /><br />
+<img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/Capture.JPG?raw=true" />
+<br /><br />
+<p>If you want to change your app title, edit this to do it (Main.java):</p> 
 <img src="https://raw.githubusercontent.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/main/20220403_000340.jpg" />
 <br />
 
