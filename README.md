@@ -55,13 +55,13 @@ Preview of output:
     </dd>
     <dd>
       <p>
-        <b>After you can see this window after select libraries -> add option : <br />
+        <b>After you can see this window after select libraries -> add option : </b><br />
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup.JPG?raw=true" />
       </p>
     </dd>
     <dd>
       <p>
-        <b>Now you can select Java and add your JavaFx library like this : <br />
+        <b>Now you can select Java and add your JavaFx library like this : </b><br />
           <i>(How to add JavaFX library : Goto your extracted JavaFX folder -> select lib folder -> press OK)</i>
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup2.JPG?raw=true" /><br />
       </p>
@@ -69,6 +69,19 @@ Preview of output:
     <dd>
       <p>
         And now you can select <b>Apply</b> and <b>OK</b>
+      </p>
+    </dd>
+    <dd>
+      <p>
+        <b>Now goto File -> Settings</b><br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/settings.JPG?raw=true" /><br />
+      </p>
+    </dd>
+    <dd>
+      <p>
+        <b>Search JavaFX and put tick</b><br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup3.JPG?raw=true" /><br />
+        Now Apply and press OK
       </p>
     </dd>
   </dl>
