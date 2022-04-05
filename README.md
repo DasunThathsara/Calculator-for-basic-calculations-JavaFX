@@ -55,13 +55,13 @@ Preview of output:
     </dd>
     <dd>
       <p>
-        <b>After you can see this window and select libraries : <br />
-        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX.JPG?raw=true" />
+        <b>After you can see this window after select libraries -> add option : <br />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup.JPG?raw=true" />
       </p>
     </dd>
     <dd>
       <p>
-        <b>Now you can add your JavaFx library like this : <br />
+        <b>Now you can select Java and add your JavaFx library like this : <br />
           <i>(How to add JavaFX library : Goto your extracted JavaFX folder -> select lib folder -> press OK)</i>
         <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup2.JPG?raw=true" /><br />
       </p>
