@@ -56,7 +56,7 @@ Preview of output:
     <dd>
       <p>
         <b>After you can see this window and select libraries : <br />
-        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX-/blob/main/img/prop%20setup1.JPG?raw=true" />
+        <img src="https://github.com/DasunThathsara/Calculator-for-basic-calculations-JavaFX.JPG?raw=true" />
       </p>
     </dd>
     <dd>
